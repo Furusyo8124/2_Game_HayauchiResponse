@@ -1,0 +1,6 @@
+📁Scripts
+├ JsonScoreSave.cs     ・・・ ランキングスコアデータのセーブ・ロードを管理
+├ NewManager.cs        ・・・ ゲーム全体の管理
+├ Score.cs             ・・・ スコア画面の管理
+├ SystemManager.cs     ・・・ リトライ、タイトルバックなどのシステム管理
+└ TitleManager.cs      ・・・ タイトル画面の管理
